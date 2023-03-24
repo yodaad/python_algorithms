@@ -1,3 +1,3 @@
 # Steps
 
-Run files on terminal
+Run scripts on terminal with the script name
